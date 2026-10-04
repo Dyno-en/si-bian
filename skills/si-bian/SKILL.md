@@ -169,3 +169,12 @@ si-bian 是前置步骤——想法还模糊时先用 si-bian 推清楚，推清
 ---
 
 完成当前任务后直接结束。只有用户明确询问下一步，且当前环境已经安装 `/dbs` 时，简短提示：「下一步不确定时，可以输入 `/dbs`。」
+
+---
+
+## 来源与许可
+
+- 本技能的追问方法**衍生自** dontbesilent 的开源技能工具箱 [dbskill](https://github.com/dontbesilent2025/dbskill)（作者 [dontbesilent](https://x.com/dontbesilent)），沿用其概念拆解、逐词追问的思路，在此致谢。
+- 原项目以 [CC BY-NC 4.0（署名-非商业 4.0）](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans) 发布。按该协议，本技能同样**仅供非商业使用，并保留原作者署名**。
+- 相对原方法，本技能新增了「第六步·行动边界——选择权永远在用户」等内容，其余为同一套追问规则。
+- 本技能新增内容作者：Dyno-en。
