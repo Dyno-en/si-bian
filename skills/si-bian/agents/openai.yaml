@@ -1,0 +1,4 @@
+interface:
+  display_name: "si-bian"
+  short_description: "把一个说不清的想法、理论或问题，一个词一个词追问到有边界（苏格拉底式思辨、概念澄清、批判性思维）；不直接给答案、不替你写文案"
+  default_prompt: "使用 $si-bian，把我这个说不清的想法一个词一个词追问到有边界。"

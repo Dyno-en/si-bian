@@ -1,6 +1,10 @@
-# si-bian
+# si-bian · 思辨
 
 把模糊想法一个词一个词推到有边界。用户有一个说不清的想法、理论或问题，想搞清楚本质、找到边界、检查前人理论支持时使用。不直接给答案，不做文案写作，不做内容检测。
+
+> Socratic questioning as an installable Agent Skill: clarify a fuzzy idea, theory, or problem word by word until it has a clear boundary — without handing you a ready-made answer.
+
+**关键词 / Keywords**：思辨、苏格拉底式提问、逐词追问、概念澄清、批判性思维、把事情想清楚、停止反刍；socratic method、socratic questioning、critical thinking、concept clarification、reasoning、agent skill。
 
 ## 安装
 
